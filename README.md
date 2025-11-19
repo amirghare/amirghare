@@ -1,4 +1,4 @@
-# Amir Erfan Qaragozlou
+# Amir Erfan Gharagozlou
 
 - 🐍 Python Developer & AI Enthusiast  
 - 🎓 Studying Mathematics at Kharazmi University  
